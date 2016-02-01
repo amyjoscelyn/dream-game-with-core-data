@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Automatic">
+    <entity name="Choice" syncable="YES"/>
+    <entity name="Effect" syncable="YES"/>
+    <entity name="Prerequisite" syncable="YES"/>
+    <entity name="Question" syncable="YES"/>
+    <elements>
+        <element name="Question" positionX="-9" positionY="36" width="128" height="45"/>
+        <element name="Choice" positionX="-9" positionY="36" width="128" height="45"/>
+        <element name="Prerequisite" positionX="0" positionY="45" width="128" height="45"/>
+        <element name="Effect" positionX="18" positionY="63" width="128" height="45"/>
+    </elements>
+</model>
